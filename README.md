@@ -6,7 +6,7 @@ The goal of this project is to analyze BMW’s global sales performance from **2
 - **Dashboard Interaction Video:** [Click to View](https://github.com/balagavamsikrishna18/-BMW-Global-Sales-Performance/blob/main/BMW%20PROJECT%20RECORDING.mp4)
 ## Dataset Used
 Internal BMW sales dataset (2010–2024).  
- [Click to View]*(https://github.com/balagavamsikrishna18/-BMW-Global-Sales-Performance/blob/main/BMW%20sales%20data%20(2010-2024)%20(1)__________P1.xlsx)*
+ -**Data set:**[Click to View]*(https://github.com/balagavamsikrishna18/-BMW-Global-Sales-Performance/blob/main/BMW%20sales%20data%20(2010-2024)%20(1)__________P1.xlsx)*
 
 ## Questions (KPIs Covered)
 - What is the **total revenue**, **sales volume**, and **cars sold** from 2010–2024?
